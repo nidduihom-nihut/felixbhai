@@ -15,12 +15,12 @@ h1{
     margin-bottom: 20px;
     margin: 5px;
 }
-.container{
+.thecontainer{
     border: 5px solid skyblue;
 
 }
 
-.container img{
+.thecontainer img{
     width: 100px;
     align-items: center;
     margin: 3px;
